@@ -23,6 +23,11 @@ The frontend should have a button that will invoke *your* API and present the in
 
 Since only 1 request can be made to the CN, but there will likely be many executives that all want to see this at once from multiple clients/locations, we need all connected clients to show some kind of 'loading' indicator if a request to the CN is already being made.
 
+# Instructions
+1. Create a github repo.
+2. Write code.
+3. Send us an email with the URL of your repo. 
+
 # Diagrams/Notes:
 
 ## Thoughts:
